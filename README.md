@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This site
 
 这个网站主要记录一些笔记，基于cgnail的博客修改。
@@ -127,8 +126,4 @@ Lanyon has two branches, but only one is used for active development.
 
 Open sourced under the [MIT license](LICENSE.md).
 
-<3
-=======
-"# changetjut.github.io" 
-123123
->>>>>>> 9c64eb62d2d0ed8e3b434c6ce7b3c957444b6810
+
