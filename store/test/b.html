@@ -1,0 +1,27 @@
+<script>
+
+num = ""
+
+function log(x) {
+    num += x;
+}
+
+function c() {
+  clearInterval(s);
+
+  log(1);
+  function f() {
+    log(2);
+    try { f(); } catch(e) {}
+    log(3);
+  }
+
+  log(4);
+  f();
+  log(5);
+
+  console.log(num)
+}
+
+var s = setInterval(c, 1);
+</script>
